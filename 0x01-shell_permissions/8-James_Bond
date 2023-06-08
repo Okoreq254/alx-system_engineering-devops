@@ -1,0 +1,2 @@
+chmod 000 hello
+chmod ugo+rwx hello
