@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '{printf substr($0, 1, 1)}' input.txt
+cut -c 1 | paste -5 -d ''
