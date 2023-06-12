@@ -1,2 +1,2 @@
 #!/bin/bash
-read -p "Enter input: " input; echo "$input" | tr 'Ac' 'Ze'
+tr "A" "Z" | tr
